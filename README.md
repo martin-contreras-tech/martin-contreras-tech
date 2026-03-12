@@ -1,7 +1,5 @@
-<div align="center">
-
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=200&section=header&text=Welcome+to+Martin%27s+GitHub&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=%3C%2F%3E&descAlignY=60&descSize=20&descColor=888888&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=200&section=header&text=Martin+Contreras&fontSize=38&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Software+Developer;Automation+%26+RPA+Specialist;Informatics+Engineering+Student;Building+Scalable+Automated+Systems" alt="Typing SVG" />
@@ -77,7 +75,7 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=martin-contreras-tech&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&count_private=false&hide=contribs" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=martin-contreras-tech&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&count_private=false" />
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-contreras-tech&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=222222&langs_count=6" />
 
@@ -96,3 +94,4 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
+Uploading readme.md…]()
