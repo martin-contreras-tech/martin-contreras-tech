@@ -1,4 +1,3 @@
-[readme.md](https://github.com/user-attachments/files/25944881/readme.md)
 <div align="center">
 
 <!-- BANNER -->
