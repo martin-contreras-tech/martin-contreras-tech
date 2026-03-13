@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🤖 About me
+## About me
 
 <table>
 <tr>
@@ -63,7 +63,7 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 <div align="center">
 
