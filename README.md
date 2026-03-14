@@ -28,7 +28,7 @@
 
 <br/>
 
-## 🤖 About me
+## About me
 
 <table>
 <tr>
@@ -40,10 +40,10 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 
 <br/>
 
-🎓 &nbsp; Estudiante de **Ingeniería en Informática** <br/>
-⚙️ &nbsp; Especializado en **Automatización & RPA** <br/>
-🧠 &nbsp; Apasionado por la **Inteligencia Artificial aplicada** <br/>
-🚀 &nbsp; Construyendo **sistemas escalables y automatizados**
+&nbsp; Estudiante de **Ingeniería en Informática** <br/>
+&nbsp; Especializado en **Automatización & RPA** <br/>
+&nbsp; Apasionado por la **Inteligencia Artificial aplicada** <br/>
+&nbsp; Construyendo **sistemas escalables y automatizados**
 
 </td>
 <td width="40%" align="center">
@@ -64,7 +64,7 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 <div align="center">
 
