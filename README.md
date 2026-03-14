@@ -19,7 +19,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-contreras-tech/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martin-contreras-tech)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__maettin__/)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lveiro)
 
 </div>
 
@@ -27,7 +28,7 @@
 
 <br/>
 
-## About me
+## 🤖 About me
 
 <table>
 <tr>
@@ -63,7 +64,7 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 
 ---
 
-## Technologies
+## 🛠️ Technologies
 
 <div align="center">
 
@@ -78,7 +79,7 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 
 ---
 
-## Statistics
+## 📊 Statistics
 
 <div align="center">
 
