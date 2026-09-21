@@ -3,13 +3,12 @@
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=200&section=header&text=Martin+Contreras&fontSize=38&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-
 </div>
 
 <div align="center">
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Software+Developer;Automation+%26+RPA+Specialist;Informatics+Engineering+Student;Building+Scalable+Automated+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Automation+%26+RPA+Engineer;Informatics+Engineering+Student;Building+GeeLark-based+systems;Aiming+for+the+space+industry" alt="Typing SVG" />
 
 </div>
 
@@ -18,8 +17,9 @@
 <!-- SOCIAL LINKS -->
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://martin.aetherauto.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-contreras-tech/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__maettin__/)
+[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lveiro)
 
 </div>
@@ -34,16 +34,18 @@
 <tr>
 <td width="60%">
 
-Soy desarrollador enfocado en **automatización avanzada**, **RPA** y **arquitectura de sistemas automatizados**. Actualmente estudio Ingeniería en Informática mientras desarrollo soluciones de automatización para plataformas digitales y sistemas escalables.
+I work at the seam between scripting and infrastructure. Most of my time goes into building the automation layer that platforms actually run on: scripted cloud-phone environments on **GeeLark**, configuration engines that decide when and how an action fires, and the backend integrations that connect all of it to a client's existing stack.
 
-Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteligencia artificial aplicada y herramientas que permitan escalar procesos digitales de forma eficiente. También disfruto construir proyectos que combinan software, automatización y análisis de comportamiento en plataformas online.
+I'm a first-year **Informatics Engineering** student at UNLaM (Argentina), and alongside that I take on freelance RPA work for international clients, mostly around social media automation and account management. I hold an **Advanced Python Programming Diploma** with a Data Science focus, and I keep a few personal projects running in parallel to push past what client work asks for.
+
+The long-term target is a competitive, internationally-facing profile in technology, with the space industry as the direction I'm steering toward. A CanSat build is the first concrete step in that direction.
 
 <br/>
 
-&nbsp; Estudiante de **Ingeniería en Informática** <br/>
-&nbsp; Especializado en **Automatización & RPA** <br/>
-&nbsp; Apasionado por la **Inteligencia Artificial aplicada** <br/>
-&nbsp; Construyendo **sistemas escalables y automatizados**
+&nbsp; Informatics Engineering student — UNLaM <br/>
+&nbsp; Freelance Automation / RPA developer — GeeLark <br/>
+&nbsp; Advanced Python Diploma — Data Science focus <br/>
+&nbsp; Long-term: space industry
 
 </td>
 <td width="40%" align="center">
@@ -64,16 +66,71 @@ Me interesa especialmente el desarrollo de **ecosistemas automatizados**, inteli
 
 ---
 
+## Currently
+
+- Building an automation layer for a review-management platform: GeeLark-driven browser environments, invitation delivery, and a Django/AWS backend integration
+- Scoping an Instagram equivalent of a JavaScript configuration engine originally built for TikTok automation
+- Developing **Kapta**, a personal finance app for Argentina with automatic transaction detection
+
+---
+
 ## Technologies
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![RPA](https://img.shields.io/badge/Automation%20%2F%20RPA-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-![APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Workflow](https://img.shields.io/badge/Workflow%20Automation-000000?style=for-the-badge&logo=zapier&logoColor=white)
-![Data](https://img.shields.io/badge/Data%20Processing-000000?style=for-the-badge&logo=pandas&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![GeeLark](https://img.shields.io/badge/GeeLark-000000?style=for-the-badge&logo=android&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Data%20Processing-000000?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+---
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%">
+
+**Reputation platform automation**
+End-to-end automation for a review-management platform: GeeLark browser environments, invitation and verification flows, integrated with a Django/AWS backend.
+`Python` `GeeLark` `AWS` `Django`
+
+</td>
+<td width="50%">
+
+**TikTok configuration engine**
+A JavaScript engine encoding staged behavioral parameters that decide when and how a TikTok automation fires. Instagram equivalent in progress.
+`JavaScript` `GeeLark`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Kapta**
+Personal finance app for Argentina with automatic transaction detection, built on Flutter, Drift and Riverpod, with a compliance foundation aligned to Argentine privacy law.
+`Flutter` `Drift` `Riverpod`
+
+</td>
+<td width="50%">
+
+**CanSat**
+Seven-phase CanSat build: atmospheric microplastics detection as the scientific mission, autonomous guided descent as the technical demonstration.
+`Embedded` `Flight systems`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**[View the full portfolio →](https://martin.aetherauto.cloud)**
 
 </div>
 
