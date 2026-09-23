@@ -144,15 +144,9 @@ A Python system built on ReportLab that generates branded PDF deliverables, such
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=martin-contreras-tech&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&count_private=false" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-contreras-tech&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=222222&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=martin-contreras-tech&bg_color=000000&color=aaaaaa&line=ffffff&point=ffffff&area=true&area_color=333333&border_color=222222" />
+![Followers](https://img.shields.io/github/followers/martin-contreras-tech?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=martin-contreras-tech&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
+![Top language](https://img.shields.io/github/languages/top/martin-contreras-tech/martin-contreras-tech?style=for-the-badge&color=000000&labelColor=000000&logo=python&logoColor=white)
 
 </div>
 
