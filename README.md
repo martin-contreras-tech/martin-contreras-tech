@@ -17,9 +17,8 @@
 <!-- SOCIAL LINKS -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://martin.aetherauto.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-contreras-tech/)
-[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white)](#)
+[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014e969187a90ab9d1?mp_source=share)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lveiro)
 
 </div>
@@ -58,6 +57,15 @@ The long-term target is a competitive, internationally-facing profile in technol
  ██   RPA · AI   ██
  ██  WORKFLOWS   ██
  ██████████████████
+
+ > whoami
+ automation engineer
+
+ > focus
+ geelark · python · js
+
+ > status
+ available for work
 ```
 
 </td>
@@ -70,7 +78,7 @@ The long-term target is a competitive, internationally-facing profile in technol
 
 - Building an automation layer for a review-management platform: GeeLark-driven browser environments, invitation delivery, and a Django/AWS backend integration
 - Scoping an Instagram equivalent of a JavaScript configuration engine originally built for TikTok automation
-- Developing **Kapta**, a personal finance app for Argentina with automatic transaction detection
+- Developing reusable automation frameworks and bot scripts in Python and JavaScript for freelance clients across different platforms
 
 ---
 
@@ -79,13 +87,15 @@ The long-term target is a competitive, internationally-facing profile in technol
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![GeeLark](https://img.shields.io/badge/GeeLark-000000?style=for-the-badge&logo=android&logoColor=white)
+![VMOS Cloud](https://img.shields.io/badge/VMOS%20Cloud-000000?style=for-the-badge&logo=android&logoColor=white)
+![AdsPower](https://img.shields.io/badge/AdsPower-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Data%20Processing-000000?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -113,26 +123,20 @@ A JavaScript engine encoding staged behavioral parameters that decide when and h
 <tr>
 <td width="50%">
 
-**Kapta**
-Personal finance app for Argentina with automatic transaction detection, built on Flutter, Drift and Riverpod, with a compliance foundation aligned to Argentine privacy law.
-`Flutter` `Drift` `Riverpod`
+**GeeLark automation utilities**
+A set of JavaScript utilities used across client automations: UK address generation, name and password generation, and phone number formatting.
+`JavaScript` `GeeLark`
 
 </td>
 <td width="50%">
 
-**CanSat**
-Seven-phase CanSat build: atmospheric microplastics detection as the scientific mission, autonomous guided descent as the technical demonstration.
-`Embedded` `Flight systems`
+**Automated reporting pipeline**
+A Python system built on ReportLab that generates branded PDF deliverables, such as operation plans and warm-up playbooks, for automation clients.
+`Python` `ReportLab`
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-**[View the full portfolio →](https://martin.aetherauto.cloud)**
-
-</div>
 
 ---
 
