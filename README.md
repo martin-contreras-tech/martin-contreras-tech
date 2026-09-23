@@ -140,13 +140,11 @@ A Python system built on ReportLab that generates branded PDF deliverables, such
 
 ---
 
-## Statistics
+## Activity
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/martin-contreras-tech?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=martin-contreras-tech&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
-![Top language](https://img.shields.io/github/languages/top/martin-contreras-tech/martin-contreras-tech?style=for-the-badge&color=000000&labelColor=000000&logo=python&logoColor=white)
+<img width="95%" src="https://ghchart.rshah.org/ffffff/martin-contreras-tech" alt="Martín's GitHub contribution chart" />
 
 </div>
 
