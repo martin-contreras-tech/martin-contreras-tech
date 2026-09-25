@@ -15,6 +15,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Make background transparent
         run: |
           sed -i 's/\.fill-bg { fill: #[0-9a-fA-F]*; }/.fill-bg { fill: none; }/' profile-3d-contrib/*.svg
