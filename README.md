@@ -140,16 +140,6 @@ A Python system built on ReportLab that generates branded PDF deliverables, such
 
 ---
 
-## Activity
-
-<div align="center">
-
-<img width="90%" src="https://raw.githubusercontent.com/martin-contreras-tech/martin-contreras-tech/main/profile-3d-contrib/profile-night-green.svg" alt="Martín's 3D contribution graph" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
