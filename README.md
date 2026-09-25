@@ -144,7 +144,7 @@ A Python system built on ReportLab that generates branded PDF deliverables, such
 
 <div align="center">
 
-<img width="90%" src="https://raw.githubusercontent.com/martin-contreras-tech/martin-contreras-tech/main/profile-3d-contrib/profile-green-animate.svg" alt="Martín's 3D contribution graph" />
+<img width="90%" src="https://raw.githubusercontent.com/martin-contreras-tech/martin-contreras-tech/main/profile-3d-contrib/profile-night-green.svg" alt="Martín's 3D contribution graph" />
 
 </div>
 
