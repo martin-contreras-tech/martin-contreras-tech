@@ -17,9 +17,9 @@
 <!-- SOCIAL LINKS -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-contreras-tech/)
-[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014e969187a90ab9d1?mp_source=share)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lveiro)
+<a href="https://www.linkedin.com/in/mart%C3%ADn-contreras-tech/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="28"/></a>
+<a href="https://www.upwork.com/freelancers/~014e969187a90ab9d1?mp_source=share"><img src="assets/badges/upwork.svg" alt="Upwork" height="28"/></a>
+<a href="https://t.me/Lveiro"><img src="assets/badges/telegram.svg" alt="Telegram" height="28"/></a>
 
 </div>
 
@@ -41,9 +41,9 @@ The long-term target is a competitive, internationally-facing profile in technol
 
 <br/>
 
-&nbsp; Informatics Engineering student — UNLaM <br/>
-&nbsp; Freelance Automation / RPA developer — GeeLark <br/>
-&nbsp; Advanced Python Diploma — Data Science focus <br/>
+&nbsp; Informatics Engineering student · UNLaM <br/>
+&nbsp; Freelance Automation / RPA developer · GeeLark <br/>
+&nbsp; Advanced Python Diploma · Data Science focus <br/>
 &nbsp; Long-term: space industry
 
 </td>
@@ -86,16 +86,16 @@ The long-term target is a competitive, internationally-facing profile in technol
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![GeeLark](https://img.shields.io/badge/GeeLark-000000?style=for-the-badge&logo=android&logoColor=white)
-![VMOS Cloud](https://img.shields.io/badge/VMOS%20Cloud-000000?style=for-the-badge&logo=android&logoColor=white)
-![AdsPower](https://img.shields.io/badge/AdsPower-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+<img src="assets/badges/python.svg" alt="Python" height="28"/>
+<img src="assets/badges/c.svg" alt="C" height="28"/>
+<img src="assets/badges/javascript.svg" alt="JavaScript" height="28"/>
+<img src="assets/badges/geelark.svg" alt="GeeLark" height="28"/>
+<img src="assets/badges/vmos-cloud.svg" alt="VMOS Cloud" height="28"/>
+<img src="assets/badges/adspower.svg" alt="AdsPower" height="28"/>
+<img src="assets/badges/django.svg" alt="Django" height="28"/>
+<img src="assets/badges/aws.svg" alt="AWS" height="28"/>
+<img src="assets/badges/postgresql.svg" alt="PostgreSQL" height="28"/>
+<img src="assets/badges/react.svg" alt="React" height="28"/>
 
 </div>
 
